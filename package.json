@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "zombie": "1.4.1",
-    "connect": "2.6.0"
+    "connect": "2.6.0",
+    "jasmine-node": "1.0.26"
   }
 }
