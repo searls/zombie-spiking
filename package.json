@@ -1,0 +1,13 @@
+{
+  "name": "jasmine-zombies",
+  "title": "a jasmine zombie spike",
+  "version": "0.0.1",
+  "author": {
+    "name": "Justin Searls",
+    "company": "test double"
+  },
+  "devDependencies": {
+    "zombie": "1.4.1",
+    "connect": "2.6.0"
+  }
+}
